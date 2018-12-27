@@ -6,8 +6,7 @@ title: 자기 주도 학습
 
 <div>
 
-![](https://www.dtoday.co.kr/news/photo/201712/258866_174898_1849.jpg)
-<img width="200" src="https://user-images.githubusercontent.com/30898520/50325037-cd6e5680-0525-11e9-8bbe-ac5014ab9c33.jpg">
+<img width="200" src="https://www.dtoday.co.kr/news/photo/201712/258866_174898_1849.jpg">
 
 ##  Design Thinking
 
